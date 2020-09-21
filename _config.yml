@@ -22,9 +22,8 @@ title: Blog
 email: haivt.0305@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My blog.
-baseurl: INT3306-21-WEEK2
+baseurl: "INT3306-21-WEEK2"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook: [Võ Thanh Hải](https://www.facebook.com/vothanhhai.0305/)
 github_username:  haivt0305
 
 # Build settings
