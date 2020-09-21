@@ -11,7 +11,7 @@ Hà Tĩnh là một tỉnh ở dải đất miền Trung, nằm trong vùng du l
 
 Hà Tĩnh là một tỉnh ở dải đất miền Trung, nằm trong vùng du lịch Bắc Trung bộ, phía bắc giáp Nghệ An, phía nam giáp Quảng Bình, phía tây giáp Lào, phía đông giáp biển Đông với bờ biển dài 137km. Ðịa hình đa dạng, có đủ các vùng đồi núi, trung du, đồng bằng và biển.Đồng bằng có diện tích nhỏ bị chia cắt bởi các dãy núi và sông suối. Hà Tĩnh có tới 14 con sông lớn nhỏ và nhiều hồ nước. Là tỉnh nằm trong khu vực nhiệt đới, gió mùa nóng ẩm, mưa nhiều. Nhiệt độ trung bình năm là 23,7ºC.
 
-![HaTinh](/image/HaTinh.png)
+![HaTinh](/_images/HaTinh.png)
 
 Tiềm năng phát triển du lịch
 ============================
